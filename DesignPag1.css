@@ -1,0 +1,62 @@
+
+
+main{
+  background-color: rgb(192, 188, 188);
+  width: 50%;
+  height: 400px;
+  margin: auto;
+  border: 10px, 40px, 40px;
+  border-radius: 10px;
+  border: 3px solid black;
+  max-width: 500px;
+  min-width: 300px;
+  
+  
+}
+
+
+h2{
+  text-align: center;
+}
+
+h3{
+  padding-left: 10px;
+}
+
+ul{
+  max-height: 50%;
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+  border: 3px solid rgba(0, 0, 0, 0.233);
+  padding-top: 15px;
+  
+}
+
+li{
+  margin-bottom: 15px;
+  
+   
+  
+}
+
+div#jogar{
+  text-align: center;
+  padding-top: 10%;
+}
+
+
+input{
+  background-color: indianred;
+  width: 200pt;
+  max-height: 60pt;
+  min-height: 30pt;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: larger;
+}
+
+
+footer{
+  text-align: center;
+  
+}
